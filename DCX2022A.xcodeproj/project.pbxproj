@@ -17,6 +17,7 @@
 		CE7086002A1A6420006FFFA4 /* Filter+Sort.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7085FF2A1A6420006FFFA4 /* Filter+Sort.swift */; };
 		CE7086022A1A6EDA006FFFA4 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7086012A1A6EDA006FFFA4 /* ViewModel.swift */; };
 		CE7086512A1A8827006FFFA4 /* DCX002.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7086502A1A8827006FFFA4 /* DCX002.swift */; };
+		CE7086552A1D0BCF006FFFA4 /* CustomDisclosureGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7086542A1D0BCF006FFFA4 /* CustomDisclosureGroup.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		CE7085FF2A1A6420006FFFA4 /* Filter+Sort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Filter+Sort.swift"; sourceTree = "<group>"; };
 		CE7086012A1A6EDA006FFFA4 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		CE7086502A1A8827006FFFA4 /* DCX002.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DCX002.swift; sourceTree = "<group>"; };
+		CE7086542A1D0BCF006FFFA4 /* CustomDisclosureGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomDisclosureGroup.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				513820B72A15149B00D0A8EE /* DCX2022AApp.swift */,
 				513820B92A15149B00D0A8EE /* ContentView.swift */,
 				CE7085FD2A1A5C51006FFFA4 /* DCX001.swift */,
+				CE7086542A1D0BCF006FFFA4 /* CustomDisclosureGroup.swift */,
 				CE7086502A1A8827006FFFA4 /* DCX002.swift */,
 				513820BB2A15149C00D0A8EE /* Assets.xcassets */,
 				513820BD2A15149C00D0A8EE /* Preview Content */,
@@ -224,6 +227,7 @@
 			files = (
 				513820BA2A15149B00D0A8EE /* ContentView.swift in Sources */,
 				CE7086002A1A6420006FFFA4 /* Filter+Sort.swift in Sources */,
+				CE7086552A1D0BCF006FFFA4 /* CustomDisclosureGroup.swift in Sources */,
 				513820B82A15149B00D0A8EE /* DCX2022AApp.swift in Sources */,
 				51686F532A1521BC000EB72B /* DataModel.swift in Sources */,
 				CE7086022A1A6EDA006FFFA4 /* ViewModel.swift in Sources */,

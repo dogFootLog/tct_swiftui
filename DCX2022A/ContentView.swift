@@ -12,7 +12,7 @@ struct ContentView: View {
     @EnvironmentObject var model: ViewModel
     
     var body: some View {
-        DCX001()
+        DCX001(isExpanded: false)
             .environmentObject(model)
     }
 }
